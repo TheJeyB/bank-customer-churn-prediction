@@ -4,10 +4,7 @@
 This project analyzes bank customer data to understand patterns of customer churn. 
 It includes data exploration, cleaning, handling missing values, and training a predictive model to identify which customers are likely to churn.
 
-## Structure
-- **data/**: Contains the cleaned dataset used for analysis and model training.
-- **notebooks/01_data_analysis.ipynb**: Data exploration, visualization, outlier detection, missing value handling, and preprocessing.
-- **notebooks/02_model_training.ipynb**: Model training using Random Forest, evaluation (accuracy, F1-score, ROC-AUC), and prediction of churn.
+
 
 ## Steps Performed
 1. **Data exploration**: histograms, boxplots, correlation analysis.
